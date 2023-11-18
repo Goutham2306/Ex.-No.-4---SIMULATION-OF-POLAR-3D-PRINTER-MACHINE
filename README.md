@@ -56,7 +56,7 @@ plate where the printed object is created.
 melts and extrudes the filament to create the printed object.
 ## Filament :
 material that is used to create the printed object.
-Playing with Axes
+## Playing with Axes
 
 ![image](https://github.com/Goutham2306/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/138971154/50cd3bde-52d0-43d6-a19b-5f3c9387d0ca)
 
