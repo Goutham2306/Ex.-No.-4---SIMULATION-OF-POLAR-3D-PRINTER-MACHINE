@@ -61,8 +61,5 @@ material that is used to create the printed object.
 ![image](https://github.com/Goutham2306/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/138971154/50cd3bde-52d0-43d6-a19b-5f3c9387d0ca)
 
 
-### Name:Goutham.K
-### Register Number:23008975
-
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
